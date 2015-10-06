@@ -1,0 +1,21 @@
+{
+  "name": "aquifer-drupalvm",
+  "version": "0.0.1",
+  "description": "Run an Aquifer project in a VM using drupalvm.",
+  "main": "aquifer-drupalvm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquifer/aquifer-drupalvm.git"
+  },
+  "keywords": [
+    "drupal",
+    "drupalvm",
+    "aquifer"
+  ],
+  "author": "= <patrickcoffey48@gmail.com> (=)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/aquifer/aquifer-drupalvm/issues"
+  },
+  "homepage": "https://github.com/aquifer/aquifer-drupalvm#readme"
+}
